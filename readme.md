@@ -19,3 +19,4 @@ This system integrates with existing smart devices and provides a user-friendly 
 3. Database: Neon PostgreSQL
 
 # Design overview 
+![image](https://github.com/user-attachments/assets/0e26010b-bb3a-47ab-ad8e-648a05eb11f1)
